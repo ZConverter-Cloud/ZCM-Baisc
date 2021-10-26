@@ -7,3 +7,7 @@ OCI Migration (Legacy)
 > **Target VM generation**
 >
 > **Migration from Source VM to Target VM**
+
+## ZConverter Cloud Migration Membership
+
+   1. **Access https://www.z-cloud.net/ through a web browser.**
