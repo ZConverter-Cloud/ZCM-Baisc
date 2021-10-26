@@ -25,7 +25,7 @@ OCI Migration (Legacy)
 
    1. **Click the target platform you want to migrate from "Cloud Migration" in the left menu.**
       
-   ![menu](https://raw.githubusercontent.com/zconverter/ZCM-legacy/master/image/z-cloud/menu.png)
+   ![menu](https://raw.githubusercontent.com/zconverter/ZCM-legacy/539f47f7e5e6e9534f9b31cd82f484af72df87ee/image/z-cloud/menu.png)
 
 2. **Register on the source server.**
       
