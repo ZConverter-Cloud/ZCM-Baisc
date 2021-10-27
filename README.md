@@ -137,39 +137,39 @@ OCI Migration (Baisc)
 
    2. **Enter the Instance menu.**
 
-      ![Enter_instance_menu](https://raw.githubusercontent.com/zconverter/ZCM-Baisc/master/image/Baisc/menu(instance).png)  
+      ![Enter_instance_menu](https://raw.githubusercontent.com/zconverter/ZCM-Baisc/master/image/legacy/menu(instance).png)  
 
    3. **Click Create instance button**
-      ![create_instance_button](https://raw.githubusercontent.com/zconverter/ZCM-Baisc/master/image/Baisc/create_instance.png)
+      ![create_instance_button](https://raw.githubusercontent.com/zconverter/ZCM-Baisc/master/image/legacy/create_instance.png)
 
    4. **Please choose the OS and shape you want to create.**
 
-      ![Api-Key](https://raw.githubusercontent.com/zconverter/ZCM-Baisc/master/image/Baisc/choice_os_and_shape.png)
+      ![Api-Key](https://raw.githubusercontent.com/zconverter/ZCM-Baisc/master/image/legacy/choice_os_and_shape.png)
 
    5. **If the selected OS is Linux series, the ssh key must also be registered.**
-     ![use_ssh_key](https://raw.githubusercontent.com/zconverter/ZCM-Baisc/master/image/Baisc/use_ssh_key.png)
+     ![use_ssh_key](https://raw.githubusercontent.com/zconverter/ZCM-Baisc/master/image/legacy/use_ssh_key.png)
 
    6. **Enter the Block Volumes menu.**
 
-      ![block-menu](https://raw.githubusercontent.com/zconverter/ZCM-Baisc/master/image/Baisc/block_volume(menu).png)
+      ![block-menu](https://raw.githubusercontent.com/zconverter/ZCM-Baisc/master/image/legacy/block_volume(menu).png)
 
    7. **Click Create Block Volume button**
-     ![create_block_volume](https://raw.githubusercontent.com/zconverter/ZCM-Baisc/master/image/Baisc/block_volume_create.png)
+     ![create_block_volume](https://raw.githubusercontent.com/zconverter/ZCM-Baisc/master/image/legacy/block_volume_create.png)
    
    8. **Create blocks according to the options you need.**
-     ![block_option](https://raw.githubusercontent.com/zconverter/ZCM-Baisc/master/image/Baisc/block_volume_create_option.png)
+     ![block_option](https://raw.githubusercontent.com/zconverter/ZCM-Baisc/master/image/legacy/block_volume_create_option.png)
    
    9. **Go back to the instance window and click the name of the instance you created.**
 
-![attach_block](https://raw.githubusercontent.com/zconverter/ZCM-Baisc/master/image/Baisc/attach_block.png)
+![attach_block](https://raw.githubusercontent.com/zconverter/ZCM-Baisc/master/image/legacy/attach_block.png)
 
    10. **In the lower left resource, click Attach block volume in the Attached block volumes column.**
 
-![attach_block_volume](https://raw.githubusercontent.com/zconverter/ZCM-Baisc/master/image/Baisc/attach_block1.png)
+![attach_block_volume](https://raw.githubusercontent.com/zconverter/ZCM-Baisc/master/image/legacy/attach_block1.png)
 
    11. **Connect pre-generated blocks. In the case of Linux series of OS, the device path must be set. 
 (left photo: Linux, right photo: windows)**
-     ![attach_block](https://raw.githubusercontent.com/zconverter/ZCM-Baisc/master/image/Baisc/attach_block_linux_and_winows.png)
+     ![attach_block](https://raw.githubusercontent.com/zconverter/ZCM-Baisc/master/image/legacy/attach_block_linux_and_winows.png)
 
 12.  **Register on the target server.**
 		
