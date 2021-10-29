@@ -1,0 +1,17 @@
+화요일 저녁 이워낙씨께 강의
+수요일 저녁 9시부터 새벽 2시까지
+
+테라폼 target생성
+
+1. windows 서버 마이그레이션(normal)
+
+2. linux 서버 마이그레이션(normal)
+
+3. windows 서버 마이그레이션 using terraform
+
+4. linux 서버 마이그레이션 using terraform
+
+5. centos4, 5 레거시 서버 마이그레이션(normal)
+
+6.git 작성
+

@@ -1,0 +1,9 @@
+유효기간 2024-01-31
+
+c4_32.vmdk : https://objectstorage.ap-seoul-1.oraclecloud.com/p/2VfvTHW3OaKdiPNJ2l8rtajn9M-Zg6LIUu0Eo2NYFHT8ytt8auMJGj05mhFIvBAO/n/idffti7li8cs/b/oracle_vmdk_test_file/o/c4_32.vmdk
+
+c4_64.vmdk : https://objectstorage.ap-seoul-1.oraclecloud.com/p/Llp5UTN7WKwTnN7-1YMlbL3gZ0lpSV4L3Dvcj9NeHMI_vpzkVuZPivHKX1PE6zQq/n/idffti7li8cs/b/oracle_vmdk_test_file/o/c4_64.vmdk
+
+c5_64.vmdk : https://objectstorage.ap-seoul-1.oraclecloud.com/p/vZh2HA8si3vMAs9OCU_2Vq82oesNAQS0J_U-P8JehrkSHjvNqaWiR4o9Pw_pt0BV/n/idffti7li8cs/b/oracle_vmdk_test_file/o/c5_64.vmdk
+
+legacy-centos4-64bit : https://objectstorage.ap-seoul-1.oraclecloud.com/p/Lc9xSt8HrWT8FaLooqShd2_a2yK3ZCg-9ErbptAj8G9fcN-YnGWhFIK9ggdDjdvw/n/idffti7li8cs/b/oracle_vmdk_test_file/o/legacy-centos4-64bit
